@@ -7,7 +7,7 @@ J’ai construit ce projet en partant de zéro, en me formant à la fois sur Pyt
 J’ai moi-même structuré la logique, corrigé des erreurs, compris et utilisé les Label, Button, config(), after(), global, les fonctions callback, etc.
 
 J’ai également appris à utiliser Git et GitHub pour la toute première fois.  
-C’est mon propre travail, étape par étape que je peux l’expliquer ligne par ligne.
+C’est mon propre travail, étape par étape que je peux expliquer ligne par ligne.
 
 
 # ⏱️ Application Pomodoro en Python
